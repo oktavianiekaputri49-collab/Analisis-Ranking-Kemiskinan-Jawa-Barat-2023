@@ -1,0 +1,67 @@
+📊 Analisis Ranking Kemiskinan Jawa Barat 2023
+Deskripsi Project:
+Project ini membahas analisis statistik data kemiskinan kabupaten/kota di Jawa Barat tahun 2023 berdasarkan persentase kemiskinan dan ranking daerah menggunakan data dari Badan Pusat Statistik (BPS).
+
+Analisis dilakukan untuk mengetahui:
+Persentase kemiskinan di setiap kabupaten/kota
+Ranking tingkat kemiskinan antar daerah
+Nilai rata-rata kemiskinan
+Nilai tertinggi dan terendah
+Perbedaan tingkat kemiskinan antar wilayah
+
+Tujuan Project:
+Menganalisis kondisi kemiskinan di Jawa Barat tahun 2023
+Membandingkan tingkat kemiskinan antar kabupaten/kota
+Mengidentifikasi daerah dengan kemiskinan tertinggi dan terendah
+Melatih kemampuan analisis data statistik menggunakan Excel
+
+Tools yang Digunakan:
+Microsoft Excel
+Statistik Deskriptif
+Visualisasi Data
+
+Dataset
+Sumber data:
+Badan Pusat Statistik (BPS) Jawa Barat 2023
+
+Data yang digunakan meliputi:
+Kabupaten/Kota
+Persentase Kemiskinan
+Ranking Daerah
+Nilai Rata-rata Kemiskinan
+Nilai Tertinggi
+Nilai Terendah
+
+Metode Analisis
+Metode yang digunakan:
+Statistik deskriptif
+Perhitungan ranking (sorting data)
+Perhitungan rata-rata
+Analisis nilai maksimum dan minimum
+Penyajian data dalam tabel
+Interpretasi hasil analisis
+
+Tahapan pengolahan data:
+Menginput data ke Microsoft Excel
+Mengurutkan data berdasarkan persentase kemiskinan
+Membuat ranking tiap daerah
+Menghitung nilai statistik (rata-rata, max, min)
+Menyusun dan membaca hasil analisis
+
+Hasil Analisis
+Hasil analisis menunjukkan bahwa:
+Kabupaten Indramayu memiliki tingkat kemiskinan tertinggi
+Beberapa wilayah seperti Kuningan, Tasikmalaya, dan Majalengka juga memiliki tingkat kemiskinan relatif tinggi
+Kota Depok memiliki tingkat kemiskinan terendah
+Terdapat perbedaan yang cukup signifikan antar kabupaten/kota di Jawa Barat
+Data ini menunjukkan adanya ketimpangan tingkat kesejahteraan antar wilayah di Jawa Barat yang masih perlu menjadi perhatian.
+
+Skill yang Dipelajari:
+Data Analysis
+Statistik Deskriptif
+Pengolahan Data Excel
+Data Visualization
+Interpretasi Statistik
+
+Author:
+Oktaviani Eka Putri
